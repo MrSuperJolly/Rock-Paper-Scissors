@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pfsup\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pfsup\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pfsup\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+        "projectName": "Rock_Paper_Scissors",
+        "projectPath": "C:\\Users\\pfsup\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj",
+        "packagesPath": "C:\\Users\\pfsup\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pfsup\\source\\repos\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pfsup\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
